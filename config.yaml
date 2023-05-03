@@ -1,0 +1,5 @@
+analysis:
+  model-path: CaseStudies/bundles/fluidTrustCaseStudy-Simplified/
+  fake: False
+simulation:
+  lazy-agents: 0

@@ -1,0 +1,195 @@
+Afghanistan	10	10
+Albania	10	10
+Algeria	10	10
+Andorra	10	10
+Angola	10	10
+Antigua & Deps	10	10
+Argentina	10	10
+Armenia	10	10
+Australia	10	10
+Austria	10	10
+Azerbaijan	10	10
+Bahamas	10	10
+Bahrain	10	10
+Bangladesh	10	10
+Barbados	10	10
+Belarus	10	10
+Belgium	10	10
+Belize	10	10
+Benin	10	10
+Bhutan	10	10
+Bolivia	10	10
+Bosnia Herzegovina	10	10
+Botswana	10	10
+Brazil	10	10
+Brunei	10	10
+Bulgaria	10	10
+Burkina	10	10
+Burundi	10	10
+Cambodia	10	10
+Cameroon	10	10
+Canada	10	10
+Cape Verde	10	10
+Central African Rep	10	10
+Chad	10	10
+Chile	10	10
+China	10	10
+Colombia	10	10
+Comoros	10	10
+Congo	10	10
+Costa Rica	10	10
+Croatia	10	10
+Cuba	10	10
+Cyprus	10	10
+Czech Republic	10	10
+Denmark	10	10
+Djibouti	10	10
+Dominica	10	10
+Dominican Republic	10	10
+East Timor	10	10
+Ecuador	10	10
+Egypt	10	10
+El Salvador	10	10
+Equatorial Guinea	10	10
+Eritrea	10	10
+Estonia	10	10
+Ethiopia	10	10
+Fiji	10	10
+Finland	10	10
+France	10	10
+Gabon	10	10
+Gambia	10	10
+Georgia	10	10
+Germany	10	10
+Ghana	10	10
+Greece	10	10
+Grenada	10	10
+Guatemala	10	10
+Guinea	10	10
+Guinea-Bissau	10	10
+Guyana	10	10
+Haiti	10	10
+Honduras	10	10
+Hungary	10	10
+Iceland	10	10
+India	10	10
+Indonesia	10	10
+Iran	10	10
+Iraq	10	10
+Ireland	10	10
+Israel	10	10
+Italy	10	10
+Ivory Coast	10	10
+Jamaica	10	10
+Japan	10	10
+Jordan	10	10
+Kazakhstan	10	10
+Kenya	10	10
+Kiribati	10	10
+Korea North	10	10
+Korea South	10	10
+Kosovo	10	10
+Kuwait	10	10
+Kyrgyzstan	10	10
+Laos	10	10
+Latvia	10	10
+Lebanon	10	10
+Lesotho	10	10
+Liberia	10	10
+Libya	10	10
+Liechtenstein	10	10
+Lithuania	10	10
+Luxembourg	10	10
+Macedonia	10	10
+Madagascar	10	10
+Malawi	10	10
+Malaysia	10	10
+Maldives	10	10
+Mali	10	10
+Malta	10	10
+Marshall Islands	10	10
+Mauritania	10	10
+Mauritius	10	10
+Mexico	10	10
+Micronesia	10	10
+Moldova	10	10
+Monaco	10	10
+Mongolia	10	10
+Montenegro	10	10
+Morocco	10	10
+Mozambique	10	10
+Myanmar	10	10
+Namibia	10	10
+Nauru	10	10
+Nepal	10	10
+Netherlands	10	10
+New Zealand	10	10
+Nicaragua	10	10
+Niger	10	10
+Nigeria	10	10
+Norway	10	10
+Oman	10	10
+Pakistan	10	10
+Palau	10	10
+Panama	10	10
+Papua New Guinea	10	10
+Paraguay	10	10
+Peru	10	10
+Philippines	10	10
+Poland	10	10
+Portugal	10	10
+Qatar	10	10
+Romania	10	10
+Russian Federation	10	10
+Rwanda	10	10
+St Kitts & Nevis	10	10
+St Lucia	10	10
+Saint Vincent & the Grenadines	10	10
+Samoa	10	10
+San Marino	10	10
+Sao Tome & Principe	10	10
+Saudi Arabia	10	10
+Senegal	10	10
+Serbia	10	10
+Seychelles	10	10
+Sierra Leone	10	10
+Singapore	10	10
+Slovakia	10	10
+Slovenia	10	10
+Solomon Islands	10	10
+Somalia	10	10
+South Africa	10	10
+South Sudan	10	10
+Spain	10	10
+Sri Lanka	10	10
+Sudan	10	10
+Suriname	10	10
+Swaziland	10	10
+Sweden	10	10
+Switzerland	10	10
+Syria	10	10
+Taiwan	10	10
+Tajikistan	10	10
+Tanzania	10	10
+Thailand	10	10
+Togo	10	10
+Tonga	10	10
+Trinidad & Tobago	10	10
+Tunisia	10	10
+Turkey	10	10
+Turkmenistan	10	10
+Tuvalu	10	10
+Uganda	10	10
+Ukraine	10	10
+United Arab Emirates	10	10
+United Kingdom	10	10
+United States	10	10
+Uruguay	10	10
+Uzbekistan	10	10
+Vanuatu	10	10
+Vatican City	10	10
+Venezuela	10	10
+Vietnam	10	10
+Yemen	10	10
+Zambia	10	10
+Zimbabwe	10	10
