@@ -126,8 +126,8 @@ Whole simulation
   - if a PA officer waits for a customs agent, an available one is assigned
   - customs agents and PA officers perform their step
 
-Implemented scenarios (slides from Maximillian)
------------------------------------------------
+Implemented scenarios
+---------------------
 
 - S1 Error Rate with Countries
   - done
